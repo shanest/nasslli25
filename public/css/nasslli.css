@@ -1,0 +1,46 @@
+:root {
+    --purple: #32006e;
+    --gold: #e8e3d3;
+    --lavender: #c5b4e3;
+    --gray: #f8f9fa;
+}
+
+@font-face {
+    font-family: 'Open_Sans';
+    src: 
+        url("/fonts/OpenSans-VariableFont_wdth,wght.ttf") format("truetype"),
+        url("/fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf") format("truetype");
+}
+
+body {
+    font-family: "Open_Sans", sans-serif;
+}
+
+a {
+    color: var(--purple);
+}
+a:hover {
+    color: var(--lavender);
+}
+
+.bg-purple {
+    background-color: var(--purple);
+}
+
+.bg-gray {
+    background-color: var(--gray);
+}
+
+.bg-lavender {
+    background-color: var(--lavender);
+}
+
+.header-anchor{
+    color: var(--lavender);
+    visibility: hidden;
+}
+
+/* this seems like a hack */
+.row > ul {
+    padding-left: 2rem;
+}
