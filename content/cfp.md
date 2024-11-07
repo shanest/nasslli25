@@ -23,7 +23,7 @@ Courses typically meet for approximately 90 minutes each day, Monday through Fri
 
 More details can be found below. We hope you will consider submitting a course proposal and distributing this call widely throughout relevant networks!
 
-**Submission deadline:** November 12, 2024.
+**Submission deadline:** November 19, 2024.
 \
 **Proposal submission:** [https://openreview.net/group?id=NASSLLI/2025/Conference](https://openreview.net/group?id=NASSLLI/2025/Conference)
 
@@ -52,7 +52,7 @@ We hope to reimburse reasonable travel expenses for up to two instructors per co
 
 # Important Dates
 
-- November 12, 2024: Course proposals due
+- November 19, 2024: Course proposals due
 - December 15, 2024: Decision notifications sent
 
 # Contact
