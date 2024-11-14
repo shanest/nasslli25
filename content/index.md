@@ -37,7 +37,7 @@ The North American Summer School in Logic, Language, and Information (NASSLLI) 2
 
 # Organization
 
-NASSLLI '25 is directed by [Shane Steinert-Threlkeld](https://shane.st).  The rest of the committee will be announced soon.
+NASSLLI '25 is directed by [Shane Steinert-Threlkeld](https://shane.st), together with a local organizing committee including [Conor Mayo-Wilson](http://faculty.washington.edu/conormw/), [Noah Smith](https://nasmith.github.io/), and [Melanie Walsh](https://melaniewalsh.org/).
 
 For information and questions, please email [shanest@uw.edu](mailto:shanest@uw.edu) with "NASSLLI" in the subject line.
 
