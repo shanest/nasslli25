@@ -53,7 +53,7 @@ We hope to reimburse reasonable travel expenses for up to two instructors per co
 # Important Dates
 
 - November 19, 2024: Course proposals due
-- December 15, 2024: Decision notifications sent
+- December ~~15~~ 20, 2024: Decision notifications sent
 
 # Contact
 
