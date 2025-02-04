@@ -130,6 +130,9 @@ Note: links to more information about each course, as well as room locations, wi
                 </th>
                 <td>
                     Information Theory
+                    <br />
+                    <br />
+                    Mathias Madsen
                 </td>
                 <td>
                     Resource Rationality
