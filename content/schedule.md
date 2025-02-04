@@ -154,6 +154,9 @@ Note: links to more information about each course, as well as room locations, wi
                 </td>
                 <td>
                     Computational Social Science on Linguistic Data using Modern NLP
+                    <br />
+                    <br />
+                    Venkata S Govindarajan, Laura Biester
                 </td>
             </tr>
             <tr>
