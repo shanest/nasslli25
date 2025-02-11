@@ -37,19 +37,19 @@ Note: links to more information about each course, as well as room locations, wi
                 Time
             </th>
             <th scope="col">
-                Room 1
+                Math/Logic
             </th>
             <th scope="col">
-                Room 2
+                Formal Philosophy
             </th>
             <th scope="col">
-                Room 3
+                Linguistics
             </th>
             <th scope="col">
-                Room 4
+                Linguistics+
             </th>
             <th scope="col">
-                Room 5
+                NLP and Beyond
             </th>
         </tr>
     </thead>
@@ -90,6 +90,11 @@ Note: links to more information about each course, as well as room locations, wi
             </td>
             </tr>
             <tr>
+                <td colspan="6" class="text-center">
+                    Coffee Break
+                </td>
+            </tr>
+            <tr>
                 <th scope="row">
                     10:40 - 12:00
                 </th>
@@ -122,6 +127,11 @@ Note: links to more information about each course, as well as room locations, wi
                     <br />
                     <br />
                     Liuwen Yu, Leon van der Torre
+                </td>
+            </tr>
+            <tr>
+                <td colspan="6" class="text-center">
+                    Lunch
                 </td>
             </tr>
             <tr>
@@ -160,6 +170,11 @@ Note: links to more information about each course, as well as room locations, wi
                 </td>
             </tr>
             <tr>
+                <td colspan="6" class="text-center">
+                    Coffee Break
+                </td>
+            </tr>
+            <tr>
                 <th scope="row">
                     3:10 - 4:30
                 </th>
@@ -170,10 +185,10 @@ Note: links to more information about each course, as well as room locations, wi
                     Yanjing Wang
                 </td>
                 <td>
-                    Logical Perspectives on Topicality
+                    Truthmaker Semantics and the Semantics of Modals
                     <br />
                     <br />
-                    Thomas Macaulay Ferguson, Andrew Tedder
+                    Friederike Moltmann
                 </td>
                 <td>
                     Tree-Adjoining Grammars: Theory and implementation
@@ -195,6 +210,11 @@ Note: links to more information about each course, as well as room locations, wi
                 </td>
             </tr>
             <tr>
+                <td colspan="6" class="text-center">
+                    Coffee Break
+                </td>
+            </tr>
+            <tr>
                 <th scope="row">
                     5:00 - 6:20
                 </th>
@@ -205,16 +225,16 @@ Note: links to more information about each course, as well as room locations, wi
                     Nina Gierasimczuk, Caleb Schultz Kisby
                 </td>
                 <td>
-                    Truthmaker Semantics and the Semantics of Modals
+                    Logical Perspectives on Topicality
                     <br />
                     <br />
-                    Friederike Moltmann
+                    Thomas Macaulay Ferguson, Andrew Tedder
                 </td>
                 <td>
                     Desire ascriptions
                     <br />
                     <br />
-                    Milo Phillips-Brown
+                    Milo Phillips-Brown, Kyle Blumberg
                 </td>
                 <td>
                     Probabilistic Dynamic Semantics
