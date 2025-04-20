@@ -13,9 +13,15 @@ eleventyNavigation:
 
 On the weekend before the main summer school---June 21, 22---we will offer three bootcamp courses:
 
-- Logic Meets Language: Formal Foundations of Semantics: Shahriar Hormozi, Ryan Walter Smith
-- An introduction to first-order modal logic: Dominik Pichler, Eugenio Orlandelli
-- Topology, Logic, and Epistemology: Adam Bjorndahl
+- Logic Meets Language: Formal Foundations of Semantics: Shahriar Hormozi, <a href="https://ryanwaltersmith.wixsite.com/home">Ryan Walter Smith</a> 
+    {% courseDescription "Logic Meets Language: Formal Foundations of Semantics" %}
+    This course invites students from diverse academic backgrounds—including linguistics, philosophy, computer science, cognitive science, and logic—who are eager to master the principles and techniques of formal semantics. Participants will gain a deep understanding of both the theoretical foundations and practical applications of formal semantics, exploring the meaning of natural language (spoken or sign) through mathematical and logical frameworks. The course emphasizes a balanced approach: while technical frameworks are crucial, they are ultimately tools for linguistic investigation. Students will engage in analyzing and comparing data-driven semantic insights, ensuring that their research stays rooted in linguistic evidence. Additionally, the course will cover a range of empirical phenomena that have shaped the field, offering a comprehensive foundation and underscoring the practical relevance of semantic analysis.
+    {% endcourseDescription %}
+- An introduction to first-order modal logic: Dominik Pichler, <a href="https://www.unibo.it/sitoweb/eugenio.orlandelli/en">Eugenio Orlandelli</a>
+- Topology, Logic, and Epistemology: <a href="https://www.adambjorndahl.com">Adam Bjorndahl</a>
+{% courseDescription "Topology, Logic, and Epistemology" %}
+This course is an introduction to topology and an exploration of some of its applications in epistemic logic. A passing familiarity with modal logic will be helpful, but is not essential; no background in topology is assumed. We'll begin by motivating and defining standard relational structure semantics for epistemic logic, and highlighting some classic correspondences between formulas in the language and properties of the structures. Next we'll introduce the notion of a topological space using a variety of metaphors and intuitions, and define topological semantics for the basic modal language. We'll examine the relationship between topological and relational semantics, establish the foundational result that S4 is “the logic of space” (i.e., sound and complete with respect to the class of all topological spaces), and discuss richer epistemic systems in which topology can be used to capture the distinction between the known and the knowable. Roughly speaking, the spatial notion of “nearness” can be co-opted as a means of representing uncertainty. This lays the groundwork to explore some more recent innovations in this area, such as topological models for evidence and justification, information update, and applications to the dynamics of program execution.
+{% endcourseDescription %}
 
 These courses meet for roughly the same amount of time as a full course, but on a compressed schedule.  More exact times and locations will be announced closer to the event.
 
@@ -73,20 +79,31 @@ Note: links to more information about each course, as well as room locations, wi
             <td>
                 Semicompositionality
                 <br />
-                <br />
+                <a href="https://kornai.com">
                 Andras Kornai
+                </a>
+                <br />
+                <br />
+                <a href="https://nessie.ilab.sztaki.hu/~kornai/2025/NASSLLI/semicomp.pdf" class="btn btn-success btn-sm">description</a>
+                <a href="https://nessie.ilab.sztaki.hu/~kornai/2025/NASSLLI" class="btn btn-secondary btn-sm">website</a>
             </td>
             <td>
                 Linguistic communication and social cognition: an interdisciplinary survey
                 <br />
                 <br />
-                Daniel Harris, Peter van Elswyk, Paula Rubio-Fernandez
+                <a href="https://danielwharris.com">Daniel Harris</a>, Peter van Elswyk, Paula Rubio-Fernandez
             </td>
             <td>
                 Language Learning in Humans and Machines
                 <br />
-                <br />
+                <a href="https://jasbi.github.io/">
                 Masoud Jasbi
+                </a>
+                <br />
+                <br />
+{% courseDescription "Language Learning in Humans and Machines", "https://jasbi.github.io/courses/nasslli_2025.html" %}
+This course provides a basic intro into computational models of language learning. We briefly review some known facts regarding child language development. We introduce three classes of models for language learning: rule-based symbolic models, Bayesian probabilistic models, and Neural Networks. We discuss prior and current research applying these models to better understand human language learning.
+{% endcourseDescription %}
             </td>
             </tr>
             <tr>
@@ -101,14 +118,28 @@ Note: links to more information about each course, as well as room locations, wi
                 <td>
                     Introduction to Proof-Theoretic Semantics
                     <br />
+                    <a href="https://sites.google.com/view/sara-ayhan">Sara Ayhan</a>, Will Stafford
                     <br />
-                    Sara Ayhan, Will Stafford
+                    <br />
+{% courseDescription "Introduction to Proof-Theoretic Semantics" %}
+Why This Course?
+
+Proof-theoretic semantics offers a fresh perspective on meaning, replacing abstract ""truth in models"" with the dynamic process of proof construction. This course will equip you with tools to explore questions like ''How do logical rules define meaning?'' or ''What connects human reasoning to computation?''
+
+The Content
+
+Proof-theoretic semantics (PTS) challenges traditional approaches to meaning by rejecting the necessity of truth conditions in favor of proof conditions. Unlike model-theoretic semantics, which defines meaning through interpretations in mathematical structures, PTS characterizes logical connectives via their governing inference rules. This aligns with inferentialism—the broader philosophical view that meaning arises from how expressions are used in deductive practices. Rooted in Wittgenstein’s ""meaning is use"" principle, PTS gained formal rigor through mid-20th-century developments in general proof theory. Key figures like Prawitz, Dummett, and Martin-Löf built on Gentzen’s systems of natural deduction and sequent calculus to establish frameworks where introduction and elimination rules define connective meanings. Their work linked philosophical insights about language use to technical innovations in normalization, cut-elimination, Curry-Howard isomorphism, and proof-theoretic validity, creating a bridge between logical practice and semantic theory.
+{% endcourseDescription %}
                 </td>
                 <td>
                     Modelling Awareness
                     <br />
+                    <a href="https://sites.google.com/berkeley.edu/xueyin-snow-zhang">Xueyin (Snow) Zhang</a>, <a href="https://sites.google.com/view/gaiabelardinelli/home">Gaia Belardinelli</a>
                     <br />
-                    Xueyin (Snow) Zhang, Gaia Belardinelli
+                    <br />
+{% courseDescription "Modelling Awareness", "https://sites.google.com/berkeley.edu/nasslli-2025-course-website-mo/home" %}
+We are unaware of many things, and unaware that we are unaware of them. But what is (un)awareness, and how does it relate to other epistemic notions such as belief, knowledge and uncertainty? This course will introduce students to multi-agent epistemic models of awareness and awareness dynamics that have been developed in philosophy, computer science and economics. We will start with the problem of logical omniscience for standard Kripke models of belief and knowledge, and introduce the Fagin-Halpern (FH) model of awareness, which addresses the problem by augmenting the standard Kripke model with a syntactic awareness function that bounds the domain in which the reasoning of agents applies. Taking the objects of awareness to be syntactical objects (i.e. formulas), instead of semantic objects such as events or propositions, has proven to be a quite flexible and theoretically useful approach. Indeed, early attempts of the alternative, event-based approach to modeling awareness faced the impossibility result due to Dekel, Lipman and Rustichini, which shows that there are no non-trivial awareness operators on standard state-spaces that satisfy certain plausible properties (DLR axioms). We will discuss two strategies that have been pursued in response to this impossibility result. The first strategy is to adopt a richer notion of events, which are comprised of fine-grained possibilities relativized to subject matters or expressive powers. The second strategy, which is more popular amongst philosophers, takes a more conservative approach by modelling events as coarse-grained sets of states (as in the standard state-space models), and invalidates the DLR axioms of awareness at certain “subjective"" states. We will present canonical models of awareness of each class, their sound and complete axiomatizations, and generalizations of these models that accommodate preferences and uncertainties with unawareness. We will also discuss how the different models formally and conceptually relate to each other as well as to the FH model. While we are unaware of many things, we also become aware of new things (objects, concepts, theories, possibilities, etc.), which in turn changes what we believe or know. How should an agent update her belief and uncertainties in light of awareness growth? In the second part of the course, we turn to the study of awareness dynamics, drawing on recent works in dynamic epistemic logic and Reverse Bayesianism. In particular, one ongoing controversy in the literature is whether there are two kinds of awareness growth, refinement (awareness of new concepts) and expansion (awareness of new possibilities), or just one. We will look at both formal and philosophical considerations for these two positions, with a focus on the open questions that remain from these discussions.
+{% endcourseDescription %}
                 </td>
                 <td>
                     The syntax, semantics and pragmatics of tenseless languages
@@ -125,8 +156,12 @@ Note: links to more information about each course, as well as room locations, wi
                 <td>
                     From Logic to Argumentation in AI
                     <br />
+                    <a href="https://yuliuwen.github.io/">Liuwen Yu</a>, Leon van der Torre
                     <br />
-                    Liuwen Yu, Leon van der Torre
+                    <br />
+{% courseDescription "From Logic to Argumentation in AI" %}
+Argumentation is a key reasoning paradigm that builds bridges across knowledge representation and reasoning in artificial intelligence (AI), natural argumentation in philosophy and linguistics, legal and ethical reasoning, mathematical and logical analysis, and graph-theoretic modeling. Formal and computational argumentation capture diverse forms of reasoning, especially in the presence of uncertainty and conflict. This course presents how argumentation in AI has evolved through several phases: from classical logic to nonclassical and nonmonotonic logic, to conflict management and formal argumentation, and further to argument mining and computational argumentation. This course is about combining logical methods from the area of knowledge representation and reasoning, and it provides an introduction to the three volumes of the Handbook of Formal Argumentation, particularly through the chapter  “Thirteen Challenges of Formal and Computational Argumentation” in the third volume.
+{% endcourseDescription %}
                 </td>
             </tr>
             <tr>
@@ -147,8 +182,14 @@ Note: links to more information about each course, as well as room locations, wi
                 <td>
                     Resource Rationality
                     <br />
-                    <br />
+                    <a href="https://stanford.edu/~icard/">
                     Thomas Icard
+                    </a>
+                    <br />
+                    <br />
+{% courseDescription "Resource Rationality", "", false %}
+Theories of rational decision making often abstract away from computational and other resource limitations faced by real agents. An alternative approach known as resource rationality puts such matters front and center, grounding choice and decision in the rational use of finite resources. Anticipated by earlier work in economics and in computer science, this approach has recently seen rapid development and application in the cognitive sciences. Here, the theory of rationality plays a dual role, both as a framework for normative assessment and as a source of scientific hypotheses about how mental processes in fact work. The goal of this course will be to introduce and discuss the major conceptual, mathematical, normative, and empirical aspects of the framework.
+{% endcourseDescription %}
                 </td>
                 <td>
                     The Many Faces of Number: Variation in Numeral-Noun Constructions
@@ -159,14 +200,24 @@ Note: links to more information about each course, as well as room locations, wi
                 <td>
                     Logic for Natural Language, Logic in Natural Language
                     <br />
-                    <br />
+                    <a href="https://iulg.sitehost.iu.edu/moss/">
                     Larry Moss
+                    </a>
+                    <br />
+                    <br />
+{% courseDescription "Logic for Natural Language, Logic in Natural Language", "https://logicforlanguage.blogspot.com/" %}
+The overall theme of the course is inference in natural language. It will study logical systems which are relevant to semantics and also logical systems which try to carry out reasoning in languages the look like ``surface forms.'' It also will cover more standard topics, such as natural deduction proof systems, the typed lambda calculus; and first-order logic and its decidable fragments. It will also present several completeness/decidability theorems for logical systems which are closer to natural language than first-order logic, such as extended syllogistic logics. One day will be on monotonicity calculi and how inference connects to the syntax-semantics interface in grammatical frameworks like CCG. The course is algorithmic and uses interactive computer programs (Jupyter notebooks) to illustrate much of the material.
+{% endcourseDescription %}
                 </td>
                 <td>
-                    Computational Social Science on Linguistic Data using Modern NLP
+                    Natural Language Processing and Computational Social Science
+                    <br />
+                    <a href="http://venkatasg.net">Venkata S Govindarajan</a>, <a href="https://www.laurabiester.com/">Laura Biester</a>
                     <br />
                     <br />
-                    Venkata S Govindarajan, Laura Biester
+{% courseDescription "Natural Language Processing and Computational Social Science", "https://nasslli25-nlp-css.github.io/" %}
+Our course will guide students on data annotation and exploration, data ethics, and computational modeling towards answering questions in social science and linguistics (particularly pragmatics). The course offers undergraduates and early graduate students an end-to-end overview of our research process towards answering linguistic and social science questions using modern NLP methods. The course is intended for anyone interested in pursuing Computational Social Science research, especially on linguistic data. Basic programming proficiency in Python will be helpful, but is not required.
+{% endcourseDescription %}
                 </td>
             </tr>
             <tr>
@@ -193,8 +244,12 @@ Note: links to more information about each course, as well as room locations, wi
                 <td>
                     Tree-Adjoining Grammars: Theory and implementation
                     <br />
+                    Kata Balogh, <a href="https://spetitjean.github.io/">Simon Petitjean</a>
                     <br />
-                    Kata Balogh, Simon Petitjean
+                    <br />
+{% courseDescription "Tree-Adjoining Grammars: Theory and implementation" %}
+This course provides an introduction to the Tree-Adjoining Grammar (TAG) formalism, with a particular focus on Lexicalized Tree-Adjoining Grammar (LTAG). It also introduces the notions of grammar engineering and parsing in the context of TAG, using tools such as XMG and TuLiPA. Throughout the course, we will highlight the importance of TAG and related formalisms in computational linguistics by providing syntactic and semantic analyses of a range of linguistic phenomena, and by exploring implementations that demonstrate the formalism’s adequacy for natural language analysis.
+{% endcourseDescription %}
                 </td>
                 <td>
                     Effectful composition in natural language semantics
@@ -233,20 +288,41 @@ Note: links to more information about each course, as well as room locations, wi
                 <td>
                     Desire ascriptions
                     <br />
+                    <a href="https://www.milopb.com/">Milo Phillips-Brown</a>
                     <br />
-                    Milo Phillips-Brown, Kyle Blumberg
+                    <br />
+{% courseDescription "Desire ascriptions" %}
+This course will survey select open questions in the semantics of desire ascriptions. We'll cover topics like: What is the logic of desire? (For example: is 'want' upward monotonic?) How do various desire predicates—'want', 'wish', 'hope', 'be glad'—relate to one another? How should we account for conflicting desires? (Unlike conflicting beliefs, which are irrational and potentially call for special treatments in the semantics of 'believe', conflicting desires are commonplace and (often) rational.)
+{% endcourseDescription %}
                 </td>
                 <td>
                     Probabilistic Dynamic Semantics
                     <br />
+                    <a href="https://juliangrove.github.io/">Julian Grove</a>, Aaron Steven White
                     <br />
-                    Julian Grove, Aaron Steven White
+                    <br />
+{% courseDescription "Probabilistic Dynamic Semantics" %}
+The recent advent of large-scale language datasets and their associated statistical models have given rise to two major kinds of questions bearing on linguistic theory and methodology:
+
+- How can semanticists use such datasets; i.e., how can the statistical properties of a dataset inform semantic theory directly, and what guiding principles regulate the link between such properties and semantic theory?
+- How should semantic theories themselves be modified so that they may characterize not only informally collected acceptability and inference judgments, but statistical generalizations observed from datasets?
+
+This course brings the compositional, algebraic view of meaning employed by semanticists into contact with linguistic datasets by introducing and applying the framework of Probabilistic Dynamic Semantics.
+{% endcourseDescription %}
                 </td>
                 <td>
                     Formal and computational linguistic perspectives on legal interpretation
                     <br />
+                    <a href="https://bwaldon.github.io">Brandon Waldon</a>, <a href="https://people.cs.georgetown.edu/nschneid/">Nathan Schneider</a>
                     <br />
-                    Brandon Waldon, Nathan Schneider
+                    <br />
+{% courseDescription "Formal and computational linguistic perspectives on legal interpretation", "https://github.com/bwaldon/nasslli-law" %}
+This course offers a critical perspective on legal interpretation through the lenses of formal and computational linguistics. It begins with an overview of contemporary philosophical debates in statutory interpretation. Textualism, the dominant interpretive doctrine in U.S. jurisprudence, prioritizes a text's ‘ordinary meaning’, often relying on tools such as dictionaries and the so-called canons of construction (Scalia & Garner, 2012). We will examine how these methods are deployed in practice, identifying their limitations in capturing the complexities of linguistic interpretation. Building on a tradition of scholarship at the intersection of linguistics and law (Solan, 1993; Cunningham et al., 1993; inter alia), we will then explore how formal linguistic theory addresses challenges that arise in the textualist approach. By examining past U.S. court cases, we will discuss how principles from syntax, semantics, and pragmatics can provide more rigorous and scientifically-informed guidance in hard cases of legal interpretation.
+
+This course will also highlight the potential of computational linguistics to augment legal text analysis through data-driven approaches to the study of legal interpretation. Students will learn how tools such as automated syntactic parsing can complement insights from linguistic theory. We will also critically assess the growing role of LLMs in legal interpretation.
+
+Prerequisites: Students should have some familiarity with formal semantics/pragmatics and basic syntax. Students are not expected to have any programming experience. 
+{% endcourseDescription %}
                 </td>
             </tr>
         </tr>

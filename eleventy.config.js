@@ -2,6 +2,7 @@
 
 const { DateTime } = require("luxon");
 const markdownItAnchor = require("markdown-it-anchor");
+const markdownit = require("markdown-it");
 
 // const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
@@ -10,6 +11,7 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 const pluginImages = require("./eleventy.config.images.js");
+const { default: anchor } = require("markdown-it-anchor");
 
 /** @param {import('@11ty/eleventy').UserConfig} eleventyConfig */
 module.exports = function(eleventyConfig) {
@@ -94,7 +96,32 @@ module.exports = function(eleventyConfig) {
 
 	eleventyConfig.addShortcode("currentBuildDate", () => {
 		return (new Date()).toISOString();
-	})
+	});
+
+	eleventyConfig.addPairedShortcode("courseDescription", (description, title, website, zoom = true) => {
+		slugify = eleventyConfig.getFilter("slugify");
+		title_id = slugify(title);
+		md_desc = markdownit().render(description.trim());
+		description_html = `<button type="button" class="btn btn-success btn-sm" data-bs-toggle="modal" data-bs-target="#${title_id}">description</button>
+		<div class="modal fade" id="${title_id}" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title">${title}</h5>
+						<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="close"></button>
+					</div>
+					<div class="modal-body">
+						${md_desc}
+					</div>
+				</div>
+			</div>
+		</div>`;
+		if(website) {
+			description_html += `<a href="${website}" class="btn btn-secondary btn-sm">website</a>`;
+		}
+		return description_html;
+	});
+
 
 	// Features to make your build faster (when you need them)
 

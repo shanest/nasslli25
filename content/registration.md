@@ -8,7 +8,7 @@ eleventyNavigation:
 # Important Dates
 
 - **Registration opens:** March ~~1~~ 8, 2025
-- **Registration closes:** June 1, 2025
+- **Registration closes:** May 30, 2025
 
 # Registration Rates
 
