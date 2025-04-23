@@ -28,3 +28,7 @@ eleventyNavigation:
    *  Enter the amount you are paying.  
    *  On the second screen, enter `NASSLLI 2025' as the invoice number on the second screen.  
 2. Additional registration information: we kindly ask that you fill out [this Google form](https://forms.gle/MF1ZoG64uH6uf3Wy8) with additional information on accommodations, meal choice, and the like.
+
+# Lodging
+
+- **On-campus lodging:**  You can book rooms in McCarty Hall at the University of Washington using [this reservation link](https://washington.irisregistration.com/Form/6820).  The deadline to reserve a room is May 30, 2025, but we would appreciate you registering as soon as possible if you know you will use this option.

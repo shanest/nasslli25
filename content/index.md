@@ -37,7 +37,7 @@ The North American Summer School in Logic, Language, and Information (NASSLLI) 2
 
 # News and Updates
 
-- Lodging through UW Conference Services: we are almost at the final stages of preparation with them.  A link to a reservation page should be live by April 22.
+- Lodging through UW is live!  You can use [this link](https://washington.irisregistration.com/Form/6820) to reserve a room (also linked on the registration page).  The deadline is May 30, but we would appreciate if you could book as soon as you are able.
 - Information is being added to the course schedule website as it comes in, so keep your eyes peeled there for updates.
 - Hybrid format: although NASSLLI is fundamentally an in-person event, and the relationships built during in-person attendance are often formative and long-lasting, we do want to make the program available as widely as possible. To that end, there is an online-only option for [registration](registration).  The majority---though not all---courses will be offered on Zoom.  Information will be added to the course schedule page as it becomes available.
 - Registration is open!  See the [registration page](registration) for details.  Please do register as early as you know you are able to make it.
