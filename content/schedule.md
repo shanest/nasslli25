@@ -261,7 +261,10 @@ This course provides an introduction to the Tree-Adjoining Grammar (TAG) formali
                     Current Formal Models of Counterfactuals and Causation
                     <br />
                     <br />
-                    Tomasz Wysocki, Dean McHugh
+                    Tomasz Wysocki, <a href="https://sites.google.com/site/deanmchugh1/">Dean McHugh</a>
+{% courseDescription "Current Formal Models of Counterfactuals and Causation" %}
+We use counterfactuals and causal claims either to explain the world or to change it: sociologists wonder how to fight poverty; historians ask why Rome fell; engineers want to ascertain what would have happened had the primary safety system in the Chernobyl power plant worked. This is why philosophy, linguistics, and cognitive science have long been interested in causality. The overarching aim of this course is to present participants with the latest developments in the exciting field of causal modeling. After the course, participants will have the necessary background knowledge to conduct their own research in the philosophy, linguistics, and cognitive science of causation and counterfactuals.
+{% endcourseDescription %}
                 </td>
             </tr>
             <tr>
