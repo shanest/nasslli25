@@ -37,6 +37,8 @@ The North American Summer School in Logic, Language, and Information (NASSLLI) 2
 
 # News and Updates
 
+- Schedule update: all three bootcamp courses are now offered on **June 22 only**, in two blocks from 10AM-1PM and 2PM-5PM.  This format change reflects the lodging update below.
+- Lodging detail: UW Conference Services housing (see link below) is only available starting the night of June 22.  If you want to arrive early, you will have to arrange alternative lodging options.  We apologize for this inconvenience.
 - Lodging through UW is live!  You can use [this link](https://washington.irisregistration.com/Form/6820) to reserve a room (also linked on the registration page).  The deadline is May 30, but we would appreciate if you could book as soon as you are able.
 - Information is being added to the course schedule website as it comes in, so keep your eyes peeled there for updates.
 - Hybrid format: although NASSLLI is fundamentally an in-person event, and the relationships built during in-person attendance are often formative and long-lasting, we do want to make the program available as widely as possible. To that end, there is an online-only option for [registration](registration).  The majority---though not all---courses will be offered on Zoom.  Information will be added to the course schedule page as it becomes available.

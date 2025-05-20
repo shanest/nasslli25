@@ -11,7 +11,7 @@ eleventyNavigation:
 
 # Bootcamp Courses
 
-On the weekend before the main summer school---June 21, 22---we will offer three bootcamp courses:
+On the day before the main summer school---June 22---we will offer three bootcamp courses:
 
 - Logic Meets Language: Formal Foundations of Semantics: Shahriar Hormozi, <a href="https://ryanwaltersmith.wixsite.com/home">Ryan Walter Smith</a> 
     {% courseDescription "Logic Meets Language: Formal Foundations of Semantics" %}
@@ -23,7 +23,7 @@ On the weekend before the main summer school---June 21, 22---we will offer three
 This course is an introduction to topology and an exploration of some of its applications in epistemic logic. A passing familiarity with modal logic will be helpful, but is not essential; no background in topology is assumed. We'll begin by motivating and defining standard relational structure semantics for epistemic logic, and highlighting some classic correspondences between formulas in the language and properties of the structures. Next we'll introduce the notion of a topological space using a variety of metaphors and intuitions, and define topological semantics for the basic modal language. We'll examine the relationship between topological and relational semantics, establish the foundational result that S4 is “the logic of space” (i.e., sound and complete with respect to the class of all topological spaces), and discuss richer epistemic systems in which topology can be used to capture the distinction between the known and the knowable. Roughly speaking, the spatial notion of “nearness” can be co-opted as a means of representing uncertainty. This lays the groundwork to explore some more recent innovations in this area, such as topological models for evidence and justification, information update, and applications to the dynamics of program execution.
 {% endcourseDescription %}
 
-These courses meet for roughly the same amount of time as a full course, but on a compressed schedule.  More exact times and locations will be announced closer to the event.
+These courses meet in two blocks, from 10AM-1PM and 2-5PM.
 
         </div>
     </div>
