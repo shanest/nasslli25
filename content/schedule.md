@@ -73,8 +73,12 @@ Note: links to more information about each course, as well as room locations, wi
             <td>
                 Formal Methods for Fallibilism
                 <br />
-                <br />
                 Sam Carter, Jeremy Goodman
+                <br />
+                <br />
+{% courseDescription "Formal Methods for Fallibilism" %}
+Fallibilists hold that belief may be rational without being entailed by the evidence. Although fallibilism is widespread in contemporary epistemology, it is primarily discussed in informal settings. The focus of this course is on introducing formal methods for theorizing about fallibilism. The course will be structured around normality models, which have become increasingly popular as a framework for thinking about knowledge in a fallibilist setting. In the course of exploring these modes, we will look at how standard models for epistemic and doxastic logic can be enriched with various kinds of additional structure. Students can expect to be introduced to the basics of epistemic and doxastic logic, their models, and to the applications of probabilities, subject matters and metrics in those models.
+{% endcourseDescription %}
             </td>
             <td>
                 Semicompositionality
@@ -232,8 +236,12 @@ Our course will guide students on data annotation and exploration, data ethics, 
                 <td>
                     Introduction to Bundled Modalities
                     <br />
+                    <a href="http://wangyanjing.com">Yanjing Wang</a>
                     <br />
-                    Yanjing Wang
+                    <br />
+{% courseDescription "Introduction to Bundled Modalities", "http://wangyanjing.com/introduction-to-bundled-modalities/" %}
+Bundled modalities typically combine a quantifier with a modality semantically. In recent years, these constructions have drawn increased attention for capturing non-normal modal logics and have led to the discovery of new decidable fragments of first-order modal logic, as well as modal interpretations of various non-classical logics. This course aims to introduce the concepts, fundamental techniques, and applications of bundled modalities in areas such as epistemic logic, deontic logic, intermediate logic, and first-order modal logic.
+{% endcourseDescription %}
                 </td>
                 <td>
                     <!--
