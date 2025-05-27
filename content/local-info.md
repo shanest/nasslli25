@@ -7,7 +7,9 @@ eleventyNavigation:
 
 # Accommodations
 
-- **On-campus lodging:**  You can book rooms in McCarty Hall at the University of Washington using [this reservation link](https://washington.irisregistration.com/Form/6820).  The deadline to reserve a room is May 30, 2025, but we would appreciate you registering as soon as possible if you know you will use this option.  This lodging will be in [McCarty Hall](https://hfs.uw.edu/Summer-Conference-Center/Conference-Accommodations/McCarty-Hall), which is a modern residence hall with single and double occupancy rooms, located on the north side of campus.
+## On-campus accommodation
+
+You can book rooms in [McCarty Hall](https://hfs.uw.edu/Conference-Guest-Rooms/McCarty-Hall) at the University of Washington using [this reservation link](https://washington.irisregistration.com/Form/6820).  The deadline to reserve a room is May 30, 2025, but we would appreciate you registering as soon as possible if you know you will use this option.  McCarty Hall is a modern residence hall with single and double occupancy rooms, located on the north side of campus.  The lodging unfortunately has non-flexible dates, with a check-in on June 22 and check-out on June 28, as well as a mandatory purchase of dining credits on UW campus.  More information is available on the registration link above.
 
 # Transportation
 
