@@ -7,7 +7,7 @@ eleventyNavigation:
 
 # Accommodations
 
-NASSLLI attendees will be able to reserve lodging in modern residency halls on the University of Washington campus.  While we are waiting for the rates to be finalized for the upcoming year, they will be roughly **$75 per person per night** for a double-occupancy room or **$125 per person per night** for a single-occupancy room.  While exact numbers and a registration form will be posted when available, you can get an understanding for what the options will look like from [this page](https://hfs.uw.edu/Summer-Conference-Center/Conference-Accommodations).
+- **On-campus lodging:**  You can book rooms in McCarty Hall at the University of Washington using [this reservation link](https://washington.irisregistration.com/Form/6820).  The deadline to reserve a room is May 30, 2025, but we would appreciate you registering as soon as possible if you know you will use this option.  This lodging will be in [McCarty Hall](https://hfs.uw.edu/Summer-Conference-Center/Conference-Accommodations/McCarty-Hall), which is a modern residence hall with single and double occupancy rooms, located on the north side of campus.
 
 # Transportation
 
