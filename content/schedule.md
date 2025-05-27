@@ -236,10 +236,12 @@ Our course will guide students on data annotation and exploration, data ethics, 
                     Yanjing Wang
                 </td>
                 <td>
+                    <!--
                     Truthmaker Semantics and the Semantics of Modals
                     <br />
                     <br />
                     Friederike Moltmann
+                    -->
                 </td>
                 <td>
                     Tree-Adjoining Grammars: Theory and implementation
