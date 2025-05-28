@@ -17,7 +17,10 @@ On the day before the main summer school---June 22---we will offer three bootcam
     {% courseDescription "Logic Meets Language: Formal Foundations of Semantics" %}
     This course invites students from diverse academic backgrounds—including linguistics, philosophy, computer science, cognitive science, and logic—who are eager to master the principles and techniques of formal semantics. Participants will gain a deep understanding of both the theoretical foundations and practical applications of formal semantics, exploring the meaning of natural language (spoken or sign) through mathematical and logical frameworks. The course emphasizes a balanced approach: while technical frameworks are crucial, they are ultimately tools for linguistic investigation. Students will engage in analyzing and comparing data-driven semantic insights, ensuring that their research stays rooted in linguistic evidence. Additionally, the course will cover a range of empirical phenomena that have shaped the field, offering a comprehensive foundation and underscoring the practical relevance of semantic analysis.
     {% endcourseDescription %}
-- An introduction to first-order modal logic: Dominik Pichler, <a href="https://www.unibo.it/sitoweb/eugenio.orlandelli/en">Eugenio Orlandelli</a>
+- An introduction to first-order modal logic: <a href="https://www.dominikpichler.org/">Dominik Pichler</a>, <a href="https://www.unibo.it/sitoweb/eugenio.orlandelli/en">Eugenio Orlandelli</a>
+{% courseDescription "An introduction to first-order modal logic" %}
+This course is ideal for students and researchers seeking an introduction to First-order Modal Logic (FOML), providing foundational tools and insights to help understand its complexities. Attendees are expected to be familiar only with the basics of propositional modal logic. FOML extends propositional modal logic by introducing quantifiers, allowing for reasoning about necessity, possibility, and other modal concepts in a first-order setting. This enhances the expressiveness of modal logic, which creates a powerful tool for analysing multi-agent systems and reasoning about relationships between entities under varying conditions. Hence, FOML finds applications in philosophy, computer science, linguistics, mathematics and artificial intelligence. This course emphasises the semantic approach to FOML and explores practical methods for integrating quantifiers and modal operators within the same system. Attendees will gain foundational knowledge of the semantics and associated proof theories.
+{% endcourseDescription %}
 - Topology, Logic, and Epistemology: <a href="https://www.adambjorndahl.com">Adam Bjorndahl</a>
 {% courseDescription "Topology, Logic, and Epistemology" %}
 This course is an introduction to topology and an exploration of some of its applications in epistemic logic. A passing familiarity with modal logic will be helpful, but is not essential; no background in topology is assumed. We'll begin by motivating and defining standard relational structure semantics for epistemic logic, and highlighting some classic correspondences between formulas in the language and properties of the structures. Next we'll introduce the notion of a topological space using a variety of metaphors and intuitions, and define topological semantics for the basic modal language. We'll examine the relationship between topological and relational semantics, establish the foundational result that S4 is “the logic of space” (i.e., sound and complete with respect to the class of all topological spaces), and discuss richer epistemic systems in which topology can be used to capture the distinction between the known and the knowable. Roughly speaking, the spatial notion of “nearness” can be co-opted as a means of representing uncertainty. This lays the groundwork to explore some more recent innovations in this area, such as topological models for evidence and justification, information update, and applications to the dynamics of program execution.
@@ -198,8 +201,12 @@ Theories of rational decision making often abstract away from computational and 
                 <td>
                     The Many Faces of Number: Variation in Numeral-Noun Constructions
                     <br />
+                    Roumyana Pancheva, <a href="https://sites.google.com/usc.edu/luis-miguel-toquero-perez/home">Luis Miguel Toquero P&eacute;rez</a>
                     <br />
-                    Roumyana Pancheva, Luis Miguel Toquero P&eacute;rez
+                    <br />
+{% courseDescription "The Many Faces of Number" %}
+Languages often make a morpho-syntactic distinction between singular and plural marking on nouns. But what is the relation between the morphosyntactic expression of number markers (e.g. a book vs books) and their semantic interpretation? How does this relation affect the variation we observe in morphological (un)markedness in numerically-modified contexts? For example, two books in English, two book in Turkish; or two book/books in Western Armenian. It is still an open question whether these differences are only semantic, only morpho-syntactic or both. This course will present an introduction to the morpho-syntax and semantics of nominal number, with a focus on universals and constrained cross-linguistic variation. While doing so, we will also discuss related topics such as the count-mass distinction, countability, and nominal concord. We will then examine how different theories have been extended to account for the typology of numeral-noun constructions. The broader conclusion is that number marking cannot be reduced to uninterpretable agreement on the noun; instead, variation depends on the location, availability and interpretation of number features in the nominal extended projection. We will also discuss the implications that this type of proposal has for the syntax and semantics of quantity (many, much, more) and size (big, large, small) adjectives and for associative plurals.
+{% endcourseDescription %}
                 </td>
                 <td>
                     Logic for Natural Language, Logic in Natural Language
@@ -289,8 +296,16 @@ We use counterfactuals and causal claims either to explain the world or to chang
                 <td>
                     Computational Learning in Dynamic Logics
                     <br />
+                    Nina Gierasimczuk, <a href="https://caleb.schultzkisby.me/">Caleb Schultz Kisby</a>
                     <br />
-                    Nina Gierasimczuk, Caleb Schultz Kisby
+                    <br />
+{% courseDescription "Computational Learning in Dynamic Logics", "https://sites.google.com/view/nasslli25-learning-in-del/home" %}
+In recent years, modern machine learning systems have achieved unprecedented success in learning from data with minimal human guidance. In parallel to the advancements in AI, Cognitive Science has been very successful at applying a variety of computational models to human learning. Still, computational and cognitive learners are often ‘black-boxes’ lacking interpretation and explanation. How can we reason about, understand, and guide computational learning processes?
+
+In this course, we introduce an approach for reasoning about learning that takes inspiration from Dynamic Epistemic Logic. Our lectures will feature both classical problems in learning and recent results about dynamic logics of learning. We will also provide supplementary exercises, slides, and dedicated reading material for those interested in a deeper understanding (see the relevant literature in the appendix).
+
+Our target audience for this course is interdisciplinary, including students with backgrounds in mathematical logic, theoretical computer science, and formal philosophy, but also cognitive and social science.
+{% endcourseDescription %}
                 </td>
                 <td>
                     Logical Perspectives on Topicality
@@ -311,7 +326,7 @@ This course will survey select open questions in the semantics of desire ascript
                 <td>
                     Probabilistic Dynamic Semantics
                     <br />
-                    <a href="https://juliangrove.github.io/">Julian Grove</a>, Aaron Steven White
+                    <a href="https://juliangrove.github.io/">Julian Grove</a>, <a href="https://aaronstevenwhite.io/">Aaron Steven White</a>
                     <br />
                     <br />
 {% courseDescription "Probabilistic Dynamic Semantics" %}
