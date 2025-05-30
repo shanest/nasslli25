@@ -157,8 +157,28 @@ We are unaware of many things, and unaware that we are unaware of them. But what
                 <td>
                     Generalized Quantifiers in the Wild: Typological Variation and Cognitive Reality
                     <br />
+                    Sonia Ramotowska, <a href="https://jakubszymanik.com/">Jakub Szymanik</a>
                     <br />
-                    Sonia Ramotowska, Jakub Szymanik
+                    <br />
+{% courseDescription "Generalized Quantifiers in the Wild: Typological Variation and Cognitive Reality" %}
+Generalized quantifier theory (GQT), with roots in the 1980s, explores the semantics of quantifier expressions like ""every,"" ""some,"" ""most,"" ""infinitely many,"" and ""uncountably many.""  GQT has become a cornerstone of formal semantics, logic, theoretical computer science, philosophy, psycholinguistics, and cognitive science. While excellent surveys and courses exist, they typically focus on classical GQT from a logical or linguistic perspective.
+
+This course takes a different approach.  We delve into recent non-orthodox developments that bring GQT closer to the empirical reality of language and cognition. We focus on two key areas:
+
+*Typological Variation*:  Building on Barwise and Cooper's seminal work on quantifier universals, we examine how logical and computational methods can explain cross-linguistic variation in quantifier expressions. For instance, why do languages tend only to lexicalize monotone quantifiers (or their conjunctions)? This burgeoning research program offers exciting new insights into the nature and limits of quantification.
+
+*Cognitive Representations*:  Addressing the classic philosophical debate on mental representations of meaning, we explore how people actually understand and process quantifiers. Research reveals that logically equivalent quantifiers can be cognitively distinct, and individuals vary in their interpretations. We examine how computational and psychological frameworks can be integrated with GQT to create cognitively realistic models of quantifier representation in the mind and brain.
+
+Based on our forthcoming book in the Cambridge Element Series, this course summarizes these two research strands and highlights significant open questions. We aim to demonstrate that GQT is a vibrant and evolving field with many intriguing puzzles yet to be solved.
+
+The course will blend theoretical foundations with cutting-edge empirical research. We will:
+* Introduce core concepts of GQT, formal semantics, and logic, providing the necessary background for students from diverse disciplines.
+* Present computational cognitive modeling tools and experimental methods that together with logical and linguistic apparatus may shed new light on linguistic meanings. 
+* Explore typological variation in quantifier expressions, examining quantifier universals and their explanations.
+* Analyze the ""polarity effect"" and other phenomena that challenge classical GQT.
+* Investigate individual differences in quantifier meanings and their cognitive underpinnings.
+* Discuss how neuroscientific research can inform our understanding of quantifiers.
+{% endcourseDescription %}
                 </td>
                 <td>
                     From Logic to Argumentation in AI
@@ -271,8 +291,16 @@ This course provides an introduction to the Tree-Adjoining Grammar (TAG) formali
                 <td>
                     Effectful composition in natural language semantics
                     <br />
+                    <a href="https://simoncharlow.com">Simon Charlow</a>, <a href="http://dylanbumford.com">Dylan Bumford</a>
                     <br />
-                    Simon Charlow, Dylan Bumford
+                    <br />
+{% courseDescription "Effectful composition in natural language semantics", "https://simoncharlow.com/nasslli/" %}
+Computer programs are often factored into pure components—simple, total functions from inputs to outputs—and components that may have side effects—errors, changes to memory, parallel threads, abortion of the current command, etc. In this course, we make the case that human languages are similarly organized around the give and pull of pure and effectful processes, and we’ll aim to show how denotational techniques from computer science can be leveraged to support elegant and illuminating semantic analyses of natural language phenomena.
+
+The slides below are from the last time this course was taught, at ESSLLI 2022. They will eventually be replaced with NASSLLI 2025 versions.
+
+A short book based on this material is submitted to Cambridge University Press, and can be accessed [here](https://ling.auf.net/lingbuzz/008912). (Let us know of any errata!)
+{% endcourseDescription %}
                 </td>
                 <td>
                     Current Formal Models of Counterfactuals and Causation

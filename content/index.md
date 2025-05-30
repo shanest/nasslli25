@@ -26,8 +26,6 @@ eleventyNavigation:
 
 The North American Summer School in Logic, Language, and Information (NASSLLI) 2025 will be held June 23-27 at the University of Washington, in Seattle. This will be the second in-person NASSLLI since 2018, following [NASSLLI '22 at USC](https://ml-la.github.io/nasslli2022/). The summer school will bring together students and researchers from many disciplines (computer science, information sciences, linguistics, mathematics, philosophy, psychology, and beyond) for a series of courses and workshops on topics in the interdisciplinary study of logic, language, and information.
 
-**N.B.:** this website is under construction.  Stay tuned for more information as it becomes available!
-
 </div>
 
 <div class="col-6">
