@@ -34,7 +34,10 @@ These courses meet in two blocks, from 10AM-1PM and 2-5PM.
         <div class="col-10 mx-auto">
 # Main Schedule
 
-Note: links to more information about each course, as well as room locations, will be posted closer to the event.
+The table below contains the schedule of the main summer school, from June 23-27.  Some key information:
+- Each class meets every day at the same time for the entire week.  There are 5 parallel sessions.
+- Locations (room numbers) will be posted closer to the event, but classes will be divded between [Johnson Hall](https://uw.edu/maps/?jhn) and [Denny Hall](https://uw.edu/maps/?den) on the UW campus.
+- Information for Zoom attendance (links, etc) will be emailed to participants before the event begins.  If you have not done so, please fill out the Google Form listed on the [registration page](registration.md).
 
         </div>
     </div>
