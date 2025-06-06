@@ -31,4 +31,4 @@ eleventyNavigation:
 
 # Lodging
 
-- **On-campus lodging:**  You can book rooms in McCarty Hall at the University of Washington using [this reservation link](https://washington.irisregistration.com/Form/6820).  The deadline to reserve a room is May 30, 2025, but we would appreciate you registering as soon as possible if you know you will use this option.
+- **On-campus lodging:**  You can book rooms in McCarty Hall at the University of Washington using [this reservation link](https://washington.irisregistration.com/Form/6820).  The deadline to reserve a room is May 30, 2025 (or until June 15, with a $25 late fee), but we would appreciate you registering as soon as possible if you know you will use this option.
