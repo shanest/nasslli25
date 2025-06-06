@@ -101,7 +101,7 @@ Fallibilists hold that belief may be rational without being entailed by the evid
                 Linguistic communication and social cognition: an interdisciplinary survey
                 <br />
                 <br />
-                <a href="https://danielwharris.com">Daniel Harris</a>, Peter van Elswyk, Paula Rubio-Fernandez
+                <a href="https://danielwharris.com">Daniel Harris</a>, <a href="https://petervanelswyk.com/">Peter van Elswyk</a>, Paula Rubio-Fernandez
             </td>
             <td>
                 Language Learning in Humans and Machines
@@ -206,8 +206,9 @@ Argumentation is a key reasoning paradigm that builds bridges across knowledge r
                 <td>
                     Information Theory
                     <br />
+                    <a href="http://github.com/mathias-madsen">Mathias Madsen</a>
                     <br />
-                    Mathias Madsen
+                    <br />
                 </td>
                 <td>
                     Resource Rationality
