@@ -13,15 +13,15 @@ eleventyNavigation:
 
 On the day before the main summer school---June 22---we will offer three bootcamp courses:
 
-- Logic Meets Language: Formal Foundations of Semantics: Shahriar Hormozi, <a href="https://ryanwaltersmith.wixsite.com/home">Ryan Walter Smith</a> 
+- Logic Meets Language: Formal Foundations of Semantics (:movie_camera:): Shahriar Hormozi, <a href="https://ryanwaltersmith.wixsite.com/home">Ryan Walter Smith</a> 
     {% courseDescription "Logic Meets Language: Formal Foundations of Semantics" %}
     This course invites students from diverse academic backgrounds—including linguistics, philosophy, computer science, cognitive science, and logic—who are eager to master the principles and techniques of formal semantics. Participants will gain a deep understanding of both the theoretical foundations and practical applications of formal semantics, exploring the meaning of natural language (spoken or sign) through mathematical and logical frameworks. The course emphasizes a balanced approach: while technical frameworks are crucial, they are ultimately tools for linguistic investigation. Students will engage in analyzing and comparing data-driven semantic insights, ensuring that their research stays rooted in linguistic evidence. Additionally, the course will cover a range of empirical phenomena that have shaped the field, offering a comprehensive foundation and underscoring the practical relevance of semantic analysis.
     {% endcourseDescription %}
-- An introduction to first-order modal logic: <a href="https://www.dominikpichler.org/">Dominik Pichler</a>, <a href="https://www.unibo.it/sitoweb/eugenio.orlandelli/en">Eugenio Orlandelli</a>
+- An introduction to first-order modal logic (:movie_camera:): <a href="https://www.dominikpichler.org/">Dominik Pichler</a>, <a href="https://www.unibo.it/sitoweb/eugenio.orlandelli/en">Eugenio Orlandelli</a>
 {% courseDescription "An introduction to first-order modal logic" %}
 This course is ideal for students and researchers seeking an introduction to First-order Modal Logic (FOML), providing foundational tools and insights to help understand its complexities. Attendees are expected to be familiar only with the basics of propositional modal logic. FOML extends propositional modal logic by introducing quantifiers, allowing for reasoning about necessity, possibility, and other modal concepts in a first-order setting. This enhances the expressiveness of modal logic, which creates a powerful tool for analysing multi-agent systems and reasoning about relationships between entities under varying conditions. Hence, FOML finds applications in philosophy, computer science, linguistics, mathematics and artificial intelligence. This course emphasises the semantic approach to FOML and explores practical methods for integrating quantifiers and modal operators within the same system. Attendees will gain foundational knowledge of the semantics and associated proof theories.
 {% endcourseDescription %}
-- Topology, Logic, and Epistemology: <a href="https://www.adambjorndahl.com">Adam Bjorndahl</a>
+- Topology, Logic, and Epistemology (:movie_camera:): <a href="https://www.adambjorndahl.com">Adam Bjorndahl</a>
 {% courseDescription "Topology, Logic, and Epistemology" %}
 This course is an introduction to topology and an exploration of some of its applications in epistemic logic. A passing familiarity with modal logic will be helpful, but is not essential; no background in topology is assumed. We'll begin by motivating and defining standard relational structure semantics for epistemic logic, and highlighting some classic correspondences between formulas in the language and properties of the structures. Next we'll introduce the notion of a topological space using a variety of metaphors and intuitions, and define topological semantics for the basic modal language. We'll examine the relationship between topological and relational semantics, establish the foundational result that S4 is “the logic of space” (i.e., sound and complete with respect to the class of all topological spaces), and discuss richer epistemic systems in which topology can be used to capture the distinction between the known and the knowable. Roughly speaking, the spatial notion of “nearness” can be co-opted as a means of representing uncertainty. This lays the groundwork to explore some more recent innovations in this area, such as topological models for evidence and justification, information update, and applications to the dynamics of program execution.
 {% endcourseDescription %}
@@ -38,6 +38,11 @@ The table below contains the schedule of the main summer school, from June 23-27
 - Each class meets every day at the same time for the entire week.  There are 5 parallel sessions.
 - Locations (room numbers) will be posted closer to the event, but classes will be divded between [Johnson Hall](https://uw.edu/maps/?jhn) and [Denny Hall](https://uw.edu/maps/?den) on the UW campus.
 - Information for Zoom attendance (links, etc) will be emailed to participants before the event begins.  If you have not done so, please fill out the Google Form listed on the [registration page](registration.md).
+- Zoom format / information key:
+    - :movie_camera: = Zoom attendance + recording available
+    - :tv: = Zoom attendance + no recording available
+    - :no_entry: = In-person attendance only, no Zoom option
+    - :technologist: = instructor will be remote
 
         </div>
     </div>
@@ -74,10 +79,11 @@ The table below contains the schedule of the main summer school, from June 23-27
                 Modern Set Theory - Mathematical Truth and the Multiverse
                 <br />
                 <br />
-                Micha&#322; Tomasz Godziszewski
+                Micha&#322; Tomasz Godziszewski (&#128104;&#8205;&#128187;)
             </td>
             <td>
-                Formal Methods for Fallibilism
+                Formal Methods for Fallibilism (&#127909;)
+                <br />
                 <br />
                 Sam Carter, Jeremy Goodman
                 <br />
@@ -87,7 +93,8 @@ Fallibilists hold that belief may be rational without being entailed by the evid
 {% endcourseDescription %}
             </td>
             <td>
-                Semicompositionality
+                Semicompositionality (:movie_camera:)
+                <br />
                 <br />
                 <a href="https://kornai.com">
                 Andras Kornai
@@ -98,13 +105,14 @@ Fallibilists hold that belief may be rational without being entailed by the evid
                 <a href="https://nessie.ilab.sztaki.hu/~kornai/2025/NASSLLI" class="btn btn-secondary btn-sm">website</a>
             </td>
             <td>
-                Linguistic communication and social cognition: an interdisciplinary survey
+                Linguistic communication and social cognition: an interdisciplinary survey (:movie_camera:)
                 <br />
                 <br />
                 <a href="https://danielwharris.com">Daniel Harris</a>, <a href="https://petervanelswyk.com/">Peter van Elswyk</a>, Paula Rubio-Fernandez
             </td>
             <td>
-                Language Learning in Humans and Machines
+                Language Learning in Humans and Machines (:movie_camera:)
+                <br />
                 <br />
                 <a href="https://jasbi.github.io/">
                 Masoud Jasbi
@@ -126,7 +134,8 @@ This course provides a basic intro into computational models of language learnin
                     10:40 - 12:00
                 </th>
                 <td>
-                    Introduction to Proof-Theoretic Semantics
+                    Introduction to Proof-Theoretic Semantics (:movie_camera:)
+                    <br />
                     <br />
                     <a href="https://sites.google.com/view/sara-ayhan">Sara Ayhan</a>, Will Stafford
                     <br />
@@ -142,7 +151,8 @@ Proof-theoretic semantics (PTS) challenges traditional approaches to meaning by 
 {% endcourseDescription %}
                 </td>
                 <td>
-                    Modelling Awareness
+                    Modelling Awareness (:tv:)
+                    <br />
                     <br />
                     <a href="https://sites.google.com/berkeley.edu/xueyin-snow-zhang">Xueyin (Snow) Zhang</a>, <a href="https://sites.google.com/view/gaiabelardinelli/home">Gaia Belardinelli</a>
                     <br />
@@ -158,9 +168,10 @@ We are unaware of many things, and unaware that we are unaware of them. But what
                     Yael Sharvit
                 </td>
                 <td>
-                    Generalized Quantifiers in the Wild: Typological Variation and Cognitive Reality
+                    Generalized Quantifiers in the Wild: Typological Variation and Cognitive Reality (:movie_camera:)
                     <br />
-                    Sonia Ramotowska, <a href="https://jakubszymanik.com/">Jakub Szymanik</a>
+                    <br />
+                    Sonia Ramotowska (:technologist:), <a href="https://jakubszymanik.com/">Jakub Szymanik</a>
                     <br />
                     <br />
 {% courseDescription "Generalized Quantifiers in the Wild: Typological Variation and Cognitive Reality" %}
@@ -184,7 +195,8 @@ The course will blend theoretical foundations with cutting-edge empirical resear
 {% endcourseDescription %}
                 </td>
                 <td>
-                    From Logic to Argumentation in AI
+                    From Logic to Argumentation in AI (:movie_camera:)
+                    <br />
                     <br />
                     <a href="https://yuliuwen.github.io/">Liuwen Yu</a>, Leon van der Torre
                     <br />
@@ -204,14 +216,16 @@ Argumentation is a key reasoning paradigm that builds bridges across knowledge r
                     1:30 - 2:50
                 </th>
                 <td>
-                    Information Theory
+                    Information Theory (:movie_camera:)
+                    <br />
                     <br />
                     <a href="http://github.com/mathias-madsen">Mathias Madsen</a>
                     <br />
                     <br />
                 </td>
                 <td>
-                    Resource Rationality
+                    Resource Rationality (:no_entry:)
+                    <br />
                     <br />
                     <a href="https://stanford.edu/~icard/">
                     Thomas Icard
@@ -225,6 +239,7 @@ Theories of rational decision making often abstract away from computational and 
                 <td>
                     The Many Faces of Number: Variation in Numeral-Noun Constructions
                     <br />
+                    <br />
                     Roumyana Pancheva, <a href="https://sites.google.com/usc.edu/luis-miguel-toquero-perez/home">Luis Miguel Toquero P&eacute;rez</a>
                     <br />
                     <br />
@@ -233,7 +248,8 @@ Languages often make a morpho-syntactic distinction between singular and plural 
 {% endcourseDescription %}
                 </td>
                 <td>
-                    Logic for Natural Language, Logic in Natural Language
+                    Logic for Natural Language, Logic in Natural Language (:movie_camera:)
+                    <br />
                     <br />
                     <a href="https://iulg.sitehost.iu.edu/moss/">
                     Larry Moss
@@ -245,7 +261,8 @@ The overall theme of the course is inference in natural language. It will study 
 {% endcourseDescription %}
                 </td>
                 <td>
-                    Natural Language Processing and Computational Social Science
+                    Natural Language Processing and Computational Social Science (:movie_camera:)
+                    <br />
                     <br />
                     <a href="http://venkatasg.net">Venkata S Govindarajan</a>, <a href="https://www.laurabiester.com/">Laura Biester</a>
                     <br />
@@ -265,7 +282,8 @@ Our course will guide students on data annotation and exploration, data ethics, 
                     3:10 - 4:30
                 </th>
                 <td>
-                    Introduction to Bundled Modalities
+                    Introduction to Bundled Modalities (:tv:)
+                    <br />
                     <br />
                     <a href="http://wangyanjing.com">Yanjing Wang</a>
                     <br />
@@ -285,6 +303,7 @@ Bundled modalities typically combine a quantifier with a modality semantically. 
                 <td>
                     Tree-Adjoining Grammars: Theory and implementation
                     <br />
+                    <br />
                     Kata Balogh, <a href="https://spetitjean.github.io/">Simon Petitjean</a>
                     <br />
                     <br />
@@ -293,7 +312,8 @@ This course provides an introduction to the Tree-Adjoining Grammar (TAG) formali
 {% endcourseDescription %}
                 </td>
                 <td>
-                    Effectful composition in natural language semantics
+                    Effectful composition in natural language semantics (:movie_camera:)
+                    <br />
                     <br />
                     <a href="https://simoncharlow.com">Simon Charlow</a>, <a href="http://dylanbumford.com">Dylan Bumford</a>
                     <br />
@@ -307,6 +327,8 @@ Computer programs are often factored into pure components—simple, total functi
                     <br />
                     <br />
                     Tomasz Wysocki, <a href="https://sites.google.com/site/deanmchugh1/">Dean McHugh</a>
+                    <br />
+                    <br />
 {% courseDescription "Current Formal Models of Counterfactuals and Causation" %}
 We use counterfactuals and causal claims either to explain the world or to change it: sociologists wonder how to fight poverty; historians ask why Rome fell; engineers want to ascertain what would have happened had the primary safety system in the Chernobyl power plant worked. This is why philosophy, linguistics, and cognitive science have long been interested in causality. The overarching aim of this course is to present participants with the latest developments in the exciting field of causal modeling. After the course, participants will have the necessary background knowledge to conduct their own research in the philosophy, linguistics, and cognitive science of causation and counterfactuals.
 {% endcourseDescription %}
@@ -322,9 +344,10 @@ We use counterfactuals and causal claims either to explain the world or to chang
                     5:00 - 6:20
                 </th>
                 <td>
-                    Computational Learning in Dynamic Logics
+                    Computational Learning in Dynamic Logics (:movie_camera:)
                     <br />
-                    Nina Gierasimczuk, <a href="https://caleb.schultzkisby.me/">Caleb Schultz Kisby</a>
+                    <br />
+                    Nina Gierasimczuk (:technologist:), <a href="https://caleb.schultzkisby.me/">Caleb Schultz Kisby</a>
                     <br />
                     <br />
 {% courseDescription "Computational Learning in Dynamic Logics", "https://sites.google.com/view/nasslli25-learning-in-del/home" %}
@@ -342,7 +365,8 @@ Our target audience for this course is interdisciplinary, including students wit
                     Thomas Macaulay Ferguson, Andrew Tedder
                 </td>
                 <td>
-                    Desire ascriptions
+                    Desire ascriptions (:tv:)
+                    <br />
                     <br />
                     <a href="https://www.milopb.com/">Milo Phillips-Brown</a>
                     <br />
@@ -352,7 +376,8 @@ This course will survey select open questions in the semantics of desire ascript
 {% endcourseDescription %}
                 </td>
                 <td>
-                    Probabilistic Dynamic Semantics
+                    Probabilistic Dynamic Semantics (:movie_camera:)
+                    <br />
                     <br />
                     <a href="https://juliangrove.github.io/">Julian Grove</a>, <a href="https://aaronstevenwhite.io/">Aaron Steven White</a>
                     <br />
@@ -367,7 +392,8 @@ This course brings the compositional, algebraic view of meaning employed by sema
 {% endcourseDescription %}
                 </td>
                 <td>
-                    Formal and computational linguistic perspectives on legal interpretation
+                    Formal and computational linguistic perspectives on legal interpretation (:movie_camera:)
+                    <br />
                     <br />
                     <a href="https://bwaldon.github.io">Brandon Waldon</a>, <a href="https://people.cs.georgetown.edu/nschneid/">Nathan Schneider</a>
                     <br />

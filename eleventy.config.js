@@ -2,6 +2,7 @@
 
 const { DateTime } = require("luxon");
 const markdownItAnchor = require("markdown-it-anchor");
+const {full: emoji} = require("markdown-it-emoji");
 const markdownit = require("markdown-it");
 
 // const pluginRss = require("@11ty/eleventy-plugin-rss");
@@ -11,7 +12,6 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 const pluginImages = require("./eleventy.config.images.js");
-const { default: anchor } = require("markdown-it-anchor");
 
 /** @param {import('@11ty/eleventy').UserConfig} eleventyConfig */
 module.exports = function(eleventyConfig) {
@@ -91,7 +91,11 @@ module.exports = function(eleventyConfig) {
 			}),
 			level: [1,2,3,4],
 			slugify: eleventyConfig.getFilter("slugify")
-		});
+		})
+	});
+
+	eleventyConfig.amendLibrary("md", mdLib => {
+		mdLib.use(emoji);
 	});
 
 	eleventyConfig.addShortcode("currentBuildDate", () => {
