@@ -162,10 +162,15 @@ We are unaware of many things, and unaware that we are unaware of them. But what
 {% endcourseDescription %}
                 </td>
                 <td>
-                    The syntax, semantics and pragmatics of tenseless languages
+                    The syntax, semantics and pragmatics of tenseless languages (:no_entry:)
                     <br />
                     <br />
                     Yael Sharvit
+                    <br />
+                    <br />
+{% courseDescription "The syntax, semantics and pragmatics of tenseless languages", "" %}
+Many languages seem to lack overt morphological tenses (e.g., past, present). According to some theories, such languages do not have tenses at all; they make the relevant temporal distinctions by appealing to aspect, in combination with pragmatic principles. According to other theories, languages with no overt tenses have tenses underlyingly. It is also possible that “tenseless” languages are not a uniform class (some resort to aspect+pragmatics, others have underlying tenses, and others employ some combination of these tools). The course will explore the different theoretical possibilities and the arguments that have been put forth for them. Taking the position that restrictions on the interpretation of embedded clauses (e.g., complement clauses of attitude verbs, restrictive and non-restrictive relative clauses, temporal adverbial clauses) provide the most reliable empirical basis for comparing the different theories of “tenseless” languages, the course will also explore the empirical consequences of these theories regarding embedded clauses. Finally, the course will explore the “big picture” theoretical consequences entailed by each of these explanations. 
+{% endcourseDescription %}
                 </td>
                 <td>
                     Generalized Quantifiers in the Wild: Typological Variation and Cognitive Reality (:movie_camera:)
@@ -198,7 +203,7 @@ The course will blend theoretical foundations with cutting-edge empirical resear
                     From Logic to Argumentation in AI (:movie_camera:)
                     <br />
                     <br />
-                    <a href="https://yuliuwen.github.io/">Liuwen Yu</a>, Leon van der Torre
+                    <a href="https://yuliuwen.github.io/">Liuwen Yu</a>, Leon van der Torre (:technologist:)
                     <br />
                     <br />
 {% courseDescription "From Logic to Argumentation in AI" %}
