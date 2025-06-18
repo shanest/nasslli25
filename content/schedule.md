@@ -151,14 +151,16 @@ Proof-theoretic semantics (PTS) challenges traditional approaches to meaning by 
 {% endcourseDescription %}
                 </td>
                 <td>
-                    Modelling Awareness (:tv:)
+                    Resource Rationality (:no_entry:)
                     <br />
                     <br />
-                    <a href="https://sites.google.com/berkeley.edu/xueyin-snow-zhang">Xueyin (Snow) Zhang</a>, <a href="https://sites.google.com/view/gaiabelardinelli/home">Gaia Belardinelli</a>
+                    <a href="https://stanford.edu/~icard/">
+                    Thomas Icard
+                    </a>
                     <br />
                     <br />
-{% courseDescription "Modelling Awareness", "https://sites.google.com/berkeley.edu/nasslli-2025-course-website-mo/home" %}
-We are unaware of many things, and unaware that we are unaware of them. But what is (un)awareness, and how does it relate to other epistemic notions such as belief, knowledge and uncertainty? In this course, we will introduce models of awareness that have been developed in philosophy, computer science and economics. The topics that we will discuss include: the problem of logical omniscience, the Dekel-Lipman-Rustichini impossibility result, syntactic vs. semantic models of awareness and their respective sound and complete axiomatizations, awareness dynamics, (un)awareness and decision theory and reverse Bayesianism.
+{% courseDescription "Resource Rationality", "", false %}
+Theories of rational decision making often abstract away from computational and other resource limitations faced by real agents. An alternative approach known as resource rationality puts such matters front and center, grounding choice and decision in the rational use of finite resources. Anticipated by earlier work in economics and in computer science, this approach has recently seen rapid development and application in the cognitive sciences. Here, the theory of rationality plays a dual role, both as a framework for normative assessment and as a source of scientific hypotheses about how mental processes in fact work. The goal of this course will be to introduce and discuss the major conceptual, mathematical, normative, and empirical aspects of the framework.
 {% endcourseDescription %}
                 </td>
                 <td>
@@ -229,16 +231,18 @@ Argumentation is a key reasoning paradigm that builds bridges across knowledge r
                     <br />
                 </td>
                 <td>
-                    Resource Rationality (:no_entry:)
+                    Computational Learning in Dynamic Logics (:movie_camera:)
                     <br />
                     <br />
-                    <a href="https://stanford.edu/~icard/">
-                    Thomas Icard
-                    </a>
+                    Nina Gierasimczuk (:technologist:), <a href="https://caleb.schultzkisby.me/">Caleb Schultz Kisby</a>
                     <br />
                     <br />
-{% courseDescription "Resource Rationality", "", false %}
-Theories of rational decision making often abstract away from computational and other resource limitations faced by real agents. An alternative approach known as resource rationality puts such matters front and center, grounding choice and decision in the rational use of finite resources. Anticipated by earlier work in economics and in computer science, this approach has recently seen rapid development and application in the cognitive sciences. Here, the theory of rationality plays a dual role, both as a framework for normative assessment and as a source of scientific hypotheses about how mental processes in fact work. The goal of this course will be to introduce and discuss the major conceptual, mathematical, normative, and empirical aspects of the framework.
+{% courseDescription "Computational Learning in Dynamic Logics", "https://sites.google.com/view/nasslli25-learning-in-del/home" %}
+In recent years, modern machine learning systems have achieved unprecedented success in learning from data with minimal human guidance. In parallel to the advancements in AI, Cognitive Science has been very successful at applying a variety of computational models to human learning. Still, computational and cognitive learners are often ‘black-boxes’ lacking interpretation and explanation. How can we reason about, understand, and guide computational learning processes?
+
+In this course, we introduce an approach for reasoning about learning that takes inspiration from Dynamic Epistemic Logic. Our lectures will feature both classical problems in learning and recent results about dynamic logics of learning. We will also provide supplementary exercises, slides, and dedicated reading material for those interested in a deeper understanding (see the relevant literature in the appendix).
+
+Our target audience for this course is interdisciplinary, including students with backgrounds in mathematical logic, theoretical computer science, and formal philosophy, but also cognitive and social science.
 {% endcourseDescription %}
                 </td>
                 <td>
@@ -298,6 +302,15 @@ Bundled modalities typically combine a quantifier with a modality semantically. 
 {% endcourseDescription %}
                 </td>
                 <td>
+                    Modelling Awareness (:tv:)
+                    <br />
+                    <br />
+                    <a href="https://sites.google.com/berkeley.edu/xueyin-snow-zhang">Xueyin (Snow) Zhang</a>, <a href="https://sites.google.com/view/gaiabelardinelli/home">Gaia Belardinelli</a>
+                    <br />
+                    <br />
+{% courseDescription "Modelling Awareness", "https://sites.google.com/berkeley.edu/nasslli-2025-course-website-mo/home" %}
+We are unaware of many things, and unaware that we are unaware of them. But what is (un)awareness, and how does it relate to other epistemic notions such as belief, knowledge and uncertainty? In this course, we will introduce models of awareness that have been developed in philosophy, computer science and economics. The topics that we will discuss include: the problem of logical omniscience, the Dekel-Lipman-Rustichini impossibility result, syntactic vs. semantic models of awareness and their respective sound and complete axiomatizations, awareness dynamics, (un)awareness and decision theory and reverse Bayesianism.
+{% endcourseDescription %}
                     <!--
                     Truthmaker Semantics and the Semantics of Modals
                     <br />
@@ -349,19 +362,6 @@ We use counterfactuals and causal claims either to explain the world or to chang
                     5:00 - 6:20
                 </th>
                 <td>
-                    Computational Learning in Dynamic Logics (:movie_camera:)
-                    <br />
-                    <br />
-                    Nina Gierasimczuk (:technologist:), <a href="https://caleb.schultzkisby.me/">Caleb Schultz Kisby</a>
-                    <br />
-                    <br />
-{% courseDescription "Computational Learning in Dynamic Logics", "https://sites.google.com/view/nasslli25-learning-in-del/home" %}
-In recent years, modern machine learning systems have achieved unprecedented success in learning from data with minimal human guidance. In parallel to the advancements in AI, Cognitive Science has been very successful at applying a variety of computational models to human learning. Still, computational and cognitive learners are often ‘black-boxes’ lacking interpretation and explanation. How can we reason about, understand, and guide computational learning processes?
-
-In this course, we introduce an approach for reasoning about learning that takes inspiration from Dynamic Epistemic Logic. Our lectures will feature both classical problems in learning and recent results about dynamic logics of learning. We will also provide supplementary exercises, slides, and dedicated reading material for those interested in a deeper understanding (see the relevant literature in the appendix).
-
-Our target audience for this course is interdisciplinary, including students with backgrounds in mathematical logic, theoretical computer science, and formal philosophy, but also cognitive and social science.
-{% endcourseDescription %}
                 </td>
                 <td>
                     Logical Perspectives on Topicality
