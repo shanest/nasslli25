@@ -8,9 +8,19 @@ eleventyNavigation:
 <div class="container-fluid bg-lavender">
 <div class="container py-3">
 
-<p class="h4 text-center">June 23-27, 2025</p>
 <p class="h2 text-center">The North American Summer School for Logic, Language and Information</p>
+
+<div class="row">
+<div class="col-4 mx-auto text-center">
+<img src="/imgs/nasslli2025_logo.svg" width="40%" class="img-fluid" alt="NASSLLI logo, with a stylized depiction of Mount Rainier and a lambda" loading="lazy" decoding="async" />
+</div>
+<div class="col">
+<p class="h4 text-center">June 23-27, 2025</p>
 <p class="h4 text-center">University of Washington, Seattle</p>
+</div>
+<div class="col-4 mx-auto text-center">
+</div>
+</div>
 
 </div>
 </div>
@@ -36,6 +46,7 @@ The North American Summer School in Logic, Language, and Information (NASSLLI) 2
 # News and Updates
 
 - A few last-minute changes to the schedule have been made, and information about Zoom format has been added, so please check the [course schedule](schedule) for the most up-to-date information.
+- Thanks to [Naomi Tachikawa Shapiro](https://tsnaomi.net/) for our lovely new logo!  The logo features a stylized depiction of Mount Rainier, which is visible from the University of Washington campus and many points in Seattle, with a lambda, used in many areas of logic, linguistics, and computer science.
 - Schedule update: all three bootcamp courses are now offered on **June 22 only**, in two blocks from 10AM-1PM and 2PM-5PM.  This format change reflects the lodging update below.
 - Lodging detail: UW Conference Services housing (see link below) is only available starting the night of June 22.  If you want to arrive early, you will have to arrange alternative lodging options.  We apologize for this inconvenience.
 - Lodging through UW is live!  You can use [this link](https://washington.irisregistration.com/Form/6820) to reserve a room (also linked on the registration page).  The deadline is May 30, but we would appreciate if you could book as soon as you are able.
