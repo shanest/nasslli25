@@ -246,7 +246,7 @@ Our target audience for this course is interdisciplinary, including students wit
 {% endcourseDescription %}
                 </td>
                 <td>
-                    The Many Faces of Number: Variation in Numeral-Noun Constructions
+                    The Many Faces of Number
                     <br />
                     <br />
                     Roumyana Pancheva, <a href="https://sites.google.com/usc.edu/luis-miguel-toquero-perez/home">Luis Miguel Toquero P&eacute;rez</a>
