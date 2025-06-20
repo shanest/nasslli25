@@ -108,7 +108,7 @@ Fallibilists hold that belief may be rational without being entailed by the evid
                 Linguistic communication and social cognition: an interdisciplinary survey (:movie_camera:)
                 <br />
                 <br />
-                <a href="https://danielwharris.com">Daniel Harris</a>, <a href="https://petervanelswyk.com/">Peter van Elswyk</a>, Paula Rubio-Fernandez
+                <a href="https://danielwharris.com">Daniel Harris</a>, <a href="https://petervanelswyk.com/">Peter van Elswyk</a>
             </td>
             <td>
                 Language Learning in Humans and Machines (:movie_camera:)
