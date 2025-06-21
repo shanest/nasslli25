@@ -111,12 +111,17 @@ Fallibilists hold that belief may be rational without being entailed by the evid
                 <a href="https://danielwharris.com">Daniel Harris</a>, <a href="https://petervanelswyk.com/">Peter van Elswyk</a>
             </td>
             <td>
+                <s>
                 Language Learning in Humans and Machines (:movie_camera:)
                 <br />
                 <br />
                 <a href="https://jasbi.github.io/">
                 Masoud Jasbi
                 </a>
+                </s>
+                <br />
+                <br />
+                <span class="text-danger">NB: course cancelled due to family emergency related to the war in Iran.</span>
                 <br />
                 <br />
 {% courseDescription "Language Learning in Humans and Machines", "https://jasbi.github.io/courses/nasslli_2025.html" %}
