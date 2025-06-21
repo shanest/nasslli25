@@ -387,7 +387,7 @@ This course will survey select open questions in the semantics of desire ascript
                     <a href="https://juliangrove.github.io/">Julian Grove</a>, <a href="https://aaronstevenwhite.io/">Aaron Steven White</a>
                     <br />
                     <br />
-{% courseDescription "Probabilistic Dynamic Semantics", "https://juliangrove.github.io/nassli-2025/" %}
+{% courseDescription "Probabilistic Dynamic Semantics", "https://juliangrove.github.io/nasslli-2025/" %}
 The recent advent of large-scale language datasets and their associated statistical models have given rise to two major kinds of questions bearing on linguistic theory and methodology:
 
 - How can semanticists use such datasets; i.e., how can the statistical properties of a dataset inform semantic theory directly, and what guiding principles regulate the link between such properties and semantic theory?
