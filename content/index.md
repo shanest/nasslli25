@@ -45,6 +45,7 @@ The North American Summer School in Logic, Language, and Information (NASSLLI) 2
 
 # News and Updates
 
+- NASSLLI is here! We are excited to welcome you to Seattle and the beautiful University of Washington campus for an intellectually stimulating week.  If you have not received an email with details about the event, please check your spam folder and make sure that you have fully registered by completing the Google Form on the [registration page](registration).  If you have any questions, please email Shane Steinert-Threlkeld at shanest AT uw DOT edu with "NASSLLI" in the subject line.
 - A few last-minute changes to the schedule have been made, and information about Zoom format has been added, so please check the [course schedule](schedule) for the most up-to-date information.
 - Thanks to [Naomi Tachikawa Shapiro](https://tsnaomi.net/) for our lovely new logo!  The logo features a stylized depiction of Mount Rainier, which is visible from the University of Washington campus and many points in Seattle, with a lambda, used in many areas of logic, linguistics, and computer science.
 - Schedule update: all three bootcamp courses are now offered on **June 22 only**, in two blocks from 10AM-1PM and 2PM-5PM.  This format change reflects the lodging update below.
