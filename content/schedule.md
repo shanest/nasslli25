@@ -186,7 +186,7 @@ Many languages seem to lack overt morphological tenses (e.g., past, present). Ac
                     Sonia Ramotowska (:technologist:), <a href="https://jakubszymanik.com/">Jakub Szymanik</a>
                     <br />
                     <br />
-{% courseDescription "Generalized Quantifiers in the Wild: Typological Variation and Cognitive Reality" %}
+{% courseDescription "Generalized Quantifiers in the Wild: Typological Variation and Cognitive Reality", "https://drive.google.com/drive/folders/1_BYxkRHUFjob_bG1yY2VdtEFz7TMbFsT" %}
 Generalized quantifier theory (GQT), with roots in the 1980s, explores the semantics of quantifier expressions like ""every,"" ""some,"" ""most,"" ""infinitely many,"" and ""uncountably many.""  GQT has become a cornerstone of formal semantics, logic, theoretical computer science, philosophy, psycholinguistics, and cognitive science. While excellent surveys and courses exist, they typically focus on classical GQT from a logical or linguistic perspective.
 
 This course takes a different approach.  We delve into recent non-orthodox developments that bring GQT closer to the empirical reality of language and cognition. We focus on two key areas:
