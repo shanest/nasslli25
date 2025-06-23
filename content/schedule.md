@@ -381,7 +381,7 @@ We use counterfactuals and causal claims either to explain the world or to chang
                     <a href="https://www.milopb.com/">Milo Phillips-Brown</a>
                     <br />
                     <br />
-{% courseDescription "Desire ascriptions" %}
+{% courseDescription "Desire ascriptions", "https://drive.google.com/drive/folders/1wB3Ko53lcbryixRbCeAOYXFh9r8GXkJb?usp=sharing" %}
 This course will survey select open questions in the semantics of desire ascriptions. We'll cover topics like: What is the logic of desire? (For example: is 'want' upward monotonic?) How do various desire predicates—'want', 'wish', 'hope', 'be glad'—relate to one another? How should we account for conflicting desires? (Unlike conflicting beliefs, which are irrational and potentially call for special treatments in the semantics of 'believe', conflicting desires are commonplace and (often) rational.)
 {% endcourseDescription %}
                 </td>
