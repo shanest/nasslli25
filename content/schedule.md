@@ -327,7 +327,7 @@ We are unaware of many things, and unaware that we are unaware of them. But what
                     Tree-Adjoining Grammars: Theory and implementation
                     <br />
                     <br />
-                    Kata Balogh, <a href="https://spetitjean.github.io/">Simon Petitjean</a>
+                    <a href="https://spetitjean.github.io/">Simon Petitjean</a>
                     <br />
                     <br />
 {% courseDescription "Tree-Adjoining Grammars: Theory and implementation" %}
