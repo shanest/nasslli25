@@ -254,10 +254,10 @@ Our target audience for this course is interdisciplinary, including students wit
                     The Many Faces of Number
                     <br />
                     <br />
-                    Roumyana Pancheva, <a href="https://sites.google.com/usc.edu/luis-miguel-toquero-perez/home">Luis Miguel Toquero P&eacute;rez</a>
+                    Roumyana Pancheva, <a href="https://luismitoquero.github.io">Luis Miguel Toquero P&eacute;rez</a>
                     <br />
                     <br />
-{% courseDescription "The Many Faces of Number" %}
+{% courseDescription "The Many Faces of Number", "https://luismitoquero.github.io/nassli/" %}
 Languages often make a morpho-syntactic distinction between singular and plural marking on nouns. But what is the relation between the morphosyntactic expression of number markers (e.g. a book vs books) and their semantic interpretation? How does this relation affect the variation we observe in morphological (un)markedness in numerically-modified contexts? For example, two books in English, two book in Turkish; or two book/books in Western Armenian. It is still an open question whether these differences are only semantic, only morpho-syntactic or both. This course will present an introduction to the morpho-syntax and semantics of nominal number, with a focus on universals and constrained cross-linguistic variation. While doing so, we will also discuss related topics such as the count-mass distinction, countability, and nominal concord. We will then examine how different theories have been extended to account for the typology of numeral-noun constructions. The broader conclusion is that number marking cannot be reduced to uninterpretable agreement on the noun; instead, variation depends on the location, availability and interpretation of number features in the nominal extended projection. We will also discuss the implications that this type of proposal has for the syntax and semantics of quantity (many, much, more) and size (big, large, small) adjectives and for associative plurals.
 {% endcourseDescription %}
                 </td>
