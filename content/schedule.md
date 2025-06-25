@@ -76,10 +76,12 @@ The table below contains the schedule of the main summer school, from June 23-27
                 9:00 - 10:20
             </th>
             <td>
+                <s>
                 Modern Set Theory - Mathematical Truth and the Multiverse
                 <br />
                 <br />
                 Micha&#322; Tomasz Godziszewski (&#128104;&#8205;&#128187;)
+                </s>
             </td>
             <td>
                 Formal Methods for Fallibilism (&#127909;)
@@ -375,12 +377,15 @@ We use counterfactuals and causal claims either to explain the world or to chang
                     Thomas Macaulay Ferguson, Andrew Tedder
                 </td>
                 <td>
+                    <s>
                     Desire ascriptions (:tv:)
                     <br />
                     <br />
                     <a href="https://www.milopb.com/">Milo Phillips-Brown</a>
+                    </s>
                     <br />
                     <br />
+                    <span class="text-danger">NB: T-Fr cancelled due to COVID.</span>
 {% courseDescription "Desire ascriptions", "https://drive.google.com/drive/folders/1wB3Ko53lcbryixRbCeAOYXFh9r8GXkJb?usp=sharing" %}
 This course will survey select open questions in the semantics of desire ascriptions. We'll cover topics like: What is the logic of desire? (For example: is 'want' upward monotonic?) How do various desire predicates—'want', 'wish', 'hope', 'be glad'—relate to one another? How should we account for conflicting desires? (Unlike conflicting beliefs, which are irrational and potentially call for special treatments in the semantics of 'believe', conflicting desires are commonplace and (often) rational.)
 {% endcourseDescription %}
