@@ -111,6 +111,9 @@ Fallibilists hold that belief may be rational without being entailed by the evid
                 <br />
                 <br />
                 <a href="https://danielwharris.com">Daniel Harris</a>, <a href="https://petervanelswyk.com/">Peter van Elswyk</a>
+                <br />
+                <br />
+                <a href="https://danielwharris.com/teaching/NASSLLI/" class="btn btn-secondary btn-sm">website</a>
             </td>
             <td>
                 <s>
