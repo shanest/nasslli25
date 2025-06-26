@@ -223,6 +223,8 @@ Argumentation is a key reasoning paradigm that builds bridges across knowledge r
             <tr>
                 <td colspan="6" class="text-center">
                     Lunch
+                    <br /><br />
+                    Friday, 06/27, 12:15-12:45PM: [Spontaneous Student Session](https://docs.google.com/document/d/1iCqWIhrK5fbxZrq16q7r_pHjDRaal7Q1SEBuQk_MB9k/edit?usp=sharing)!
                 </td>
             </tr>
             <tr>
